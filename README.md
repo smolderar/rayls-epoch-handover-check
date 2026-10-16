@@ -33,7 +33,7 @@ The quorum used is the one in `epoch.rs`: `floor(2n/3)+1`, so 5 of 7.
 
 ## Files
 
-- `main.go`, `scan.go`, `blake3.go`, `keccak.go`, `main_test.go`, `go.mod`: the checker (Go, gnark-crypto for BLS12-381; blake3 and keccak256 written from the specs and tested against official vectors).
+- `main.go`, `scan.go`, `blake3.go`, `keccak.go`, `main_test.go`, `go.mod`, `go.sum`: the checker (Go, gnark-crypto for BLS12-381; blake3 and keccak256 written from the specs and tested against official vectors).
 - `run.ps1`: full check. `registry.ps1`: registry snapshot only.
 - `report-2026-10-16-1650-UTC.txt`: full output of the final run.
 - `registry-20261016-0917-UTC.txt`, `registry-20261016-1649-UTC.txt`: registry before and after the 16 Oct handover.
