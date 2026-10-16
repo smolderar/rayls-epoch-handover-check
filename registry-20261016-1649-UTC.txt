@@ -1,0 +1,27 @@
+Epoch handover check, read-only
+RPC      https://mainnet-rpc.rayls.com
+explorer https://explorer.rayls.com
+started 2026-10-16 16:49:41 UTC
+
+node status: {"role":"observer","is_caught_up":true,"epoch":170,"committed_round":4582,"primary_round":4582,"gc_round":4082,"last_canonical_block":12628965}
+latest block: 12628965
+
+
+ConsensusRegistry 0x07e17e17e17e17e17e17e17e17e17e17e17e17e1 (read-only, answers at the latest block):
+  getCurrentEpoch() = 170
+  getCommitteeValidators(169): 7 validators
+  getCommitteeValidators(170): 7 validators
+  getCommitteeValidators(171): 7 validators
+  getCommitteeValidators(172): 8 validators
+      not in the committee of epoch 170: 0xbbd0b35294fff3981a7aeb2adb14f23f93bf9662
+  all unretired validators, 8 listed:
+      0x080857747a9baa9f53a68a20cd1e13b691641bc7  Active            activation epoch 0
+      0xba74449591e403e012351095b566cf15417c2930  Active            activation epoch 0
+      0xc2afe610a7cecc44ef8604fe9421271fe2990fe6  Active            activation epoch 0
+      0x17a9747596427f4960d5c494417ce6bf8b82bafe  Active            activation epoch 0
+      0x90aed90ede55e7f784523303e12f3457d6337789  Active            activation epoch 0
+      0xfc182245c87ab48b6a10e36fd262790de73707af  Active            activation epoch 0
+      0xeecf1a05b55e27c19d999471376192880aaa78bc  Active            activation epoch 0
+      0xbbd0b35294fff3981a7aeb2adb14f23f93bf9662  Active            activation epoch 170
+
+finished 2026-10-16 16:49:44 UTC

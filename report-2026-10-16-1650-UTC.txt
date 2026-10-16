@@ -1,0 +1,253 @@
+Epoch handover check, read-only
+RPC      https://mainnet-rpc.rayls.com
+explorer https://explorer.rayls.com
+started 2026-10-16 16:50:20 UTC
+
+node status: {"role":"observer","is_caught_up":false,"epoch":170,"committed_round":4638,"primary_round":4641,"gc_round":4138,"last_canonical_block":12628993}
+latest block: 12628993
+
+epoch signed bls     hash   chain committee block@rpc   block@expl  epoch closed (UTC)
+0     7 of 7   valid   match  -     -         same        same        2026-04-30 15:58:22
+1     7 of 7   valid   match  ok    same      same        same        2026-05-01 15:58:22
+2     7 of 7   valid   match  ok    same      same        same        2026-05-02 15:58:22
+3     7 of 7   valid   match  ok    same      same        same        2026-05-03 15:58:23
+4     7 of 7   valid   match  ok    same      same        same        2026-05-04 15:58:23
+5     7 of 7   valid   match  ok    same      same        same        2026-05-05 15:58:24
+6     5 of 7   valid   match  ok    same      same        same        2026-05-06 15:58:24
+7     7 of 7   valid   match  ok    same      same        same        2026-05-07 15:58:24
+8     7 of 7   valid   match  ok    same      same        same        2026-05-08 15:58:24
+9     7 of 7   valid   match  ok    same      same        same        2026-05-09 15:58:24
+10    7 of 7   valid   match  ok    same      same        same        2026-05-10 15:58:25
+11    7 of 7   valid   match  ok    same      same        same        2026-05-11 15:58:25
+12    6 of 7   valid   match  ok    same      same        same        2026-05-12 15:58:25
+13    6 of 7   valid   match  ok    same      same        same        2026-05-13 15:58:25
+14    6 of 7   valid   match  ok    same      same        same        2026-05-14 15:58:25
+15    7 of 7   valid   match  ok    same      same        same        2026-05-15 15:58:26
+16    7 of 7   valid   match  ok    same      same        same        2026-05-16 15:58:26
+17    7 of 7   valid   match  ok    same      same        same        2026-05-17 15:58:26
+18    6 of 7   valid   match  ok    same      same        same        2026-05-18 15:58:27
+19    5 of 7   valid   match  ok    same      same        same        2026-05-19 15:58:27
+20    6 of 7   valid   match  ok    same      same        same        2026-05-20 15:58:28
+21    7 of 7   valid   match  ok    same      same        same        2026-05-21 15:58:28
+22    7 of 7   valid   match  ok    same      same        same        2026-05-22 15:58:28
+23    6 of 7   valid   match  ok    same      same        same        2026-05-23 15:58:28
+24    6 of 7   valid   match  ok    same      same        same        2026-05-24 15:58:28
+25    7 of 7   valid   match  ok    same      same        same        2026-05-25 15:58:28
+26    7 of 7   valid   match  ok    same      same        same        2026-05-26 15:58:28
+27    7 of 7   valid   match  ok    same      same        same        2026-05-27 15:58:29
+28    6 of 7   valid   match  ok    same      same        same        2026-05-28 15:58:29
+29    7 of 7   valid   match  ok    same      same        same        2026-05-29 15:58:29
+30    6 of 7   valid   match  ok    same      same        same        2026-05-30 15:58:30
+31    7 of 7   valid   match  ok    same      same        same        2026-05-31 15:58:30
+32    7 of 7   valid   match  ok    same      same        same        2026-06-01 15:58:30
+33    6 of 7   valid   match  ok    same      same        same        2026-06-02 15:58:30
+34    6 of 7   valid   match  ok    same      same        same        2026-06-03 15:58:30
+35    6 of 7   valid   match  ok    same      same        same        2026-06-04 15:58:30
+36    6 of 7   valid   match  ok    same      same        same        2026-06-05 15:58:30
+37    7 of 7   valid   match  ok    same      same        same        2026-06-06 15:58:30
+38    7 of 7   valid   match  ok    same      same        same        2026-06-07 15:58:31
+39    7 of 7   valid   match  ok    same      same        same        2026-06-08 15:58:31
+40    7 of 7   valid   match  ok    same      same        same        2026-06-09 15:58:31
+41    6 of 7   valid   match  ok    same      same        same        2026-06-10 15:58:31
+42    6 of 7   valid   match  ok    same      same        same        2026-06-11 15:58:31
+43    6 of 7   valid   match  ok    same      same        same        2026-06-12 15:58:32
+44    6 of 7   valid   match  ok    same      same        same        2026-06-13 15:58:33
+45    6 of 7   valid   match  ok    same      same        same        2026-06-14 15:58:34
+46    7 of 7   valid   match  ok    same      same        same        2026-06-15 15:58:35
+47    7 of 7   valid   match  ok    same      same        same        2026-06-16 15:58:36
+48    5 of 7   valid   match  ok    same      same        same        2026-06-17 15:58:37
+49    7 of 7   valid   match  ok    same      same        same        2026-06-18 15:58:37
+50    6 of 7   valid   match  ok    same      same        same        2026-06-19 15:58:37
+51    6 of 7   valid   match  ok    same      same        same        2026-06-20 15:58:37
+52    5 of 7   valid   match  ok    same      same        same        2026-06-21 15:58:37
+53    5 of 7   valid   match  ok    same      same        same        2026-06-22 15:58:38
+54    5 of 7   valid   match  ok    same      same        same        2026-06-23 15:58:38
+55    6 of 7   valid   match  ok    same      same        same        2026-06-24 15:58:38
+56    7 of 7   valid   match  ok    same      same        same        2026-06-25 15:58:38
+57    7 of 7   valid   match  ok    same      same        same        2026-06-26 15:58:39
+58    6 of 7   valid   match  ok    same      same        same        2026-06-27 15:58:39
+59    6 of 7   valid   match  ok    same      same        same        2026-06-28 15:58:40
+60    6 of 7   valid   match  ok    same      same        same        2026-06-29 15:58:40
+61    6 of 7   valid   match  ok    same      same        same        2026-06-30 15:58:40
+62    6 of 7   valid   match  ok    same      same        same        2026-07-01 15:58:40
+63    6 of 7   valid   match  ok    same      same        same        2026-07-02 15:58:40
+64    6 of 7   valid   match  ok    same      same        same        2026-07-03 15:58:40
+65    6 of 7   valid   match  ok    same      same        same        2026-07-04 15:58:40
+66    6 of 7   valid   match  ok    same      same        same        2026-07-05 15:58:40
+67    6 of 7   valid   match  ok    same      same        same        2026-07-06 15:58:40
+68    6 of 7   valid   match  ok    same      same        same        2026-07-07 15:58:41
+69    6 of 7   valid   match  ok    same      same        same        2026-07-08 15:58:41
+70    7 of 7   valid   match  ok    same      same        same        2026-07-09 15:58:42
+71    7 of 7   valid   match  ok    same      same        same        2026-07-10 15:58:42
+72    7 of 7   valid   match  ok    same      same        same        2026-07-11 15:58:42
+73    6 of 7   valid   match  ok    same      same        same        2026-07-12 15:58:42
+74    6 of 7   valid   match  ok    same      same        same        2026-07-13 15:58:42
+75    6 of 7   valid   match  ok    same      same        same        2026-07-14 15:58:42
+76    7 of 7   valid   match  ok    same      same        same        2026-07-15 15:58:43
+77    6 of 7   valid   match  ok    same      same        same        2026-07-16 15:58:44
+78    6 of 7   valid   match  ok    same      same        same        2026-07-17 15:58:44
+79    7 of 7   valid   match  ok    same      same        same        2026-07-18 15:58:45
+80    7 of 7   valid   match  ok    same      same        same        2026-07-19 15:58:46
+81    6 of 7   valid   match  ok    same      same        same        2026-07-20 15:58:46
+82    6 of 7   valid   match  ok    same      same        same        2026-07-21 15:58:46
+83    6 of 7   valid   match  ok    same      same        same        2026-07-22 15:58:46
+84    6 of 7   valid   match  ok    same      same        same        2026-07-23 15:58:47
+85    5 of 7   valid   match  ok    same      same        same        2026-07-24 15:58:47
+86    7 of 7   valid   match  ok    same      same        same        2026-07-25 15:58:47
+87    7 of 7   valid   match  ok    same      same        same        2026-07-26 15:58:47
+88    6 of 7   valid   match  ok    same      same        same        2026-07-27 15:58:47
+89    7 of 7   valid   match  ok    same      same        same        2026-07-28 15:58:47
+90    6 of 7   valid   match  ok    same      same        same        2026-07-29 15:58:47
+91    5 of 7   valid   match  ok    same      same        same        2026-07-30 15:58:47
+92    7 of 7   valid   match  ok    same      same        same        2026-07-31 15:58:47
+93    7 of 7   valid   match  ok    same      same        same        2026-08-01 15:58:47
+94    7 of 7   valid   match  ok    same      same        same        2026-08-02 15:58:47
+95    6 of 7   valid   match  ok    same      same        same        2026-08-03 15:58:47
+96    5 of 7   valid   match  ok    same      same        same        2026-08-04 15:58:47
+97    7 of 7   valid   match  ok    same      same        same        2026-08-05 15:58:47
+98    7 of 7   valid   match  ok    same      same        same        2026-08-06 15:58:47
+99    5 of 7   valid   match  ok    same      same        same        2026-08-07 15:58:47
+100   6 of 7   valid   match  ok    same      same        same        2026-08-08 15:58:47
+101   6 of 7   valid   match  ok    same      same        same        2026-08-09 15:58:48
+102   5 of 7   valid   match  ok    same      same        same        2026-08-10 15:58:49
+103   7 of 7   valid   match  ok    same      same        same        2026-08-11 15:58:49
+104   5 of 7   valid   match  ok    same      same        same        2026-08-12 15:58:49
+105   6 of 7   valid   match  ok    same      same        same        2026-08-13 15:58:49
+106   6 of 7   valid   match  ok    same      same        same        2026-08-14 15:58:50
+107   7 of 7   valid   match  ok    same      same        same        2026-08-15 15:58:50
+108   7 of 7   valid   match  ok    same      same        same        2026-08-16 15:58:50
+109   7 of 7   valid   match  ok    same      same        same        2026-08-17 15:58:50
+110   6 of 7   valid   match  ok    same      same        same        2026-08-18 15:58:50
+111   7 of 7   valid   match  ok    same      same        same        2026-08-19 15:58:50
+112   7 of 7   valid   match  ok    same      same        same        2026-08-20 15:58:50
+113   6 of 7   valid   match  ok    same      same        same        2026-08-21 15:58:50
+114   6 of 7   valid   match  ok    same      same        same        2026-08-22 15:58:51
+115   7 of 7   valid   match  ok    same      same        same        2026-08-23 15:58:51
+116   5 of 7   valid   match  ok    same      same        same        2026-08-24 15:58:51
+117   5 of 7   valid   match  ok    same      same        same        2026-08-25 15:58:51
+118   6 of 7   valid   match  ok    same      same        same        2026-08-26 15:58:51
+119   6 of 7   valid   match  ok    same      same        same        2026-08-27 15:58:51
+120   7 of 7   valid   match  ok    same      same        same        2026-08-28 15:58:51
+121   7 of 7   valid   match  ok    same      same        same        2026-08-29 15:58:51
+122   7 of 7   valid   match  ok    same      same        same        2026-08-30 15:58:51
+123   7 of 7   valid   match  ok    same      same        same        2026-08-31 15:58:51
+124   7 of 7   valid   match  ok    same      same        same        2026-09-01 15:58:51
+125   7 of 7   valid   match  ok    same      same        same        2026-09-02 15:58:51
+126   7 of 7   valid   match  ok    same      same        same        2026-09-03 15:58:51
+127   6 of 7   valid   match  ok    same      same        same        2026-09-04 15:58:51
+128   5 of 7   valid   match  ok    same      same        same        2026-09-05 15:58:51
+129   6 of 7   valid   match  ok    same      same        same        2026-09-06 15:58:51
+130   5 of 7   valid   match  ok    same      same        same        2026-09-07 15:58:52
+131   5 of 7   valid   match  ok    same      same        same        2026-09-08 15:58:52
+132   7 of 7   valid   match  ok    same      same        same        2026-09-09 15:58:52
+133   7 of 7   valid   match  ok    same      same        same        2026-09-10 15:58:52
+134   5 of 7   valid   match  ok    same      same        same        2026-09-11 15:58:52
+135   7 of 7   valid   match  ok    same      same        same        2026-09-12 15:58:53
+136   5 of 7   valid   match  ok    same      same        same        2026-09-13 15:58:53
+137   5 of 7   valid   match  ok    same      same        same        2026-09-14 15:58:53
+138   5 of 7   valid   match  ok    same      same        same        2026-09-15 15:58:53
+139   5 of 7   valid   match  ok    same      same        same        2026-09-16 15:58:53
+140   5 of 7   valid   match  ok    same      same        same        2026-09-17 15:58:53
+141   6 of 7   valid   match  ok    same      same        same        2026-09-18 15:58:53
+142   7 of 7   valid   match  ok    same      same        same        2026-09-19 15:58:53
+143   5 of 7   valid   match  ok    same      same        same        2026-09-20 15:58:53
+144   5 of 7   valid   match  ok    same      same        same        2026-09-21 15:58:53
+145   5 of 7   valid   match  ok    same      same        same        2026-09-22 15:58:53
+146   5 of 7   valid   match  ok    same      same        same        2026-09-23 15:58:53
+147   7 of 7   valid   match  ok    same      same        same        2026-09-24 15:58:53
+148   6 of 7   valid   match  ok    same      same        same        2026-09-25 15:58:53
+149   6 of 7   valid   match  ok    same      same        same        2026-09-26 15:58:53
+150   5 of 7   valid   match  ok    same      same        same        2026-09-27 15:58:53
+151   5 of 7   valid   match  ok    same      same        same        2026-09-28 15:58:53
+152   6 of 7   valid   match  ok    same      same        same        2026-09-29 15:58:53
+153   7 of 7   valid   match  ok    same      same        same        2026-09-30 15:58:53
+154   7 of 7   valid   match  ok    same      same        same        2026-10-01 15:58:53
+155   5 of 7   valid   match  ok    same      same        same        2026-10-02 15:58:53
+156   7 of 7   valid   match  ok    same      same        same        2026-10-03 15:58:53
+157   6 of 7   valid   match  ok    same      same        same        2026-10-04 15:58:53
+158   6 of 7   valid   match  ok    same      same        same        2026-10-05 15:58:53
+159   5 of 7   valid   match  ok    same      same        same        2026-10-06 15:58:53
+160   7 of 7   valid   match  ok    same      same        same        2026-10-07 15:58:53
+161   5 of 7   valid   match  ok    same      same        same        2026-10-08 15:58:53
+162   5 of 7   valid   match  ok    same      same        same        2026-10-09 15:58:54
+163   5 of 7   valid   match  ok    same      same        same        2026-10-10 15:58:54
+164   5 of 7   valid   match  ok    same      same        same        2026-10-11 15:58:54
+165   5 of 7   valid   match  ok    same      same        same        2026-10-12 15:58:55
+166   6 of 7   valid   match  ok    same      same        same        2026-10-13 15:58:55
+167   5 of 7   valid   match  ok    same      same        same        2026-10-14 15:58:55
+168   6 of 7   valid   match  ok    same      same        same        2026-10-15 15:58:55
+169   5 of 7   valid   match  ok    same      same        same        2026-10-16 15:58:56
+170   no record yet (epoch still running), stopping
+
+---- summary (170 records, epochs 0 to 169) ----
+aggregate BLS signature verified      : 170 of 170
+    VALID (as-returned, intent+len+hash) x170
+record hash recomputed (blake3)       : 170 of 170
+    MATCH (epoch u32, key-len=true, hash-len=true) x170
+parent_hash chain breaks              : 0
+committee differs from announced next : 0
+epochs where the committee changed    : 0
+checkpoint block hash = RPC block     : 170 of 170
+checkpoint block hash = explorer block: 170 of 170 (not reachable: 0)
+signers: fewest 5, exactly at quorum in 38 of 170 records
+    epochs   0- 41: average 6.57 signers,  2 of 42 at exactly quorum
+    epochs  42- 83: average 6.17 signers,  4 of 42 at exactly quorum
+    epochs  84-125: average 6.31 signers,  8 of 42 at exactly quorum
+    epochs 126-167: average 5.69 signers, 23 of 42 at exactly quorum
+    epochs 168-169: average 5.50 signers,  1 of 2 at exactly quorum
+    before epoch 134: 134 records, average 6.33 signers, 17 at exactly quorum (13%), 61 with all signers
+    from epoch 134: 36 records, average 5.61 signers, 21 at exactly quorum (58%), 7 with all signers
+hours between epoch closes            : min 24.00, median 24.00, max 24.00
+
+ConsensusRegistry 0x07e17e17e17e17e17e17e17e17e17e17e17e17e1 (read-only, answers at the latest block):
+  getCurrentEpoch() = 170
+  getCommitteeValidators(169): 7 validators, 7 of 7 keys equal to record 169 committee
+  getCommitteeValidators(170): 7 validators, 7 of 7 keys equal to record 169 next_committee
+  getCommitteeValidators(171): 7 validators
+  getCommitteeValidators(172): 8 validators
+      not in the committee of epoch 170: 0xbbd0b35294fff3981a7aeb2adb14f23f93bf9662
+  all unretired validators, 8 listed:
+      0x080857747a9baa9f53a68a20cd1e13b691641bc7  Active            activation epoch 0
+      0xba74449591e403e012351095b566cf15417c2930  Active            activation epoch 0
+      0xc2afe610a7cecc44ef8604fe9421271fe2990fe6  Active            activation epoch 0
+      0x17a9747596427f4960d5c494417ce6bf8b82bafe  Active            activation epoch 0
+      0x90aed90ede55e7f784523303e12f3457d6337789  Active            activation epoch 0
+      0xfc182245c87ab48b6a10e36fd262790de73707af  Active            activation epoch 0
+      0xeecf1a05b55e27c19d999471376192880aaa78bc  Active            activation epoch 0
+      0xbbd0b35294fff3981a7aeb2adb14f23f93bf9662  Active            activation epoch 170
+
+Which hash does the node use for rayls_epochRecordByHash? (epoch 169)
+  blake3    0xd13c53ead723f2f008278c1273496192f6290f670e4fa413eb8a66b0006108cd -> found epoch 169
+  keccak256 0x6be0fee025302d5c86417d4478575470c643079b2895025a5eab80a56394caa9 -> not found
+
+tamper tests on epoch 160 (each one MUST fail):
+  untouched record + certificate        -> valid / digest match
+  signature swapped from epoch 159      -> NOT-VERIFIED
+  one signer removed from the bitmap    -> NOT-VERIFIED
+  checkpoint block number changed by +1 -> digest NO-MATCH
+
+epoch 167 in detail:
+  committee (7 keys, quorum 5):
+    [0] pdomvJaE...  signed
+    [1] tMY8Lnuv...  signed
+    [2] uvRVQ2Jx...  did not sign
+    [3] xt1uZiaf...  signed
+    [4] yAyFZMLM...  did not sign
+    [5] zAEnbE5Z...  signed
+    [6] 24Vsw1CX...  signed
+  checkpoint block : 12496402
+  checkpoint hash  : 0x270ebd0751c02993bd26fe42b5d9f2cd3602910f785234eac66662c91f2fc63a
+  record hash      : 0x86cdc07abd568323a0473ae1d5a671a0281169055219a0338f5ce756cdc9d2ee
+  signature        : 7dFdsSTb...
+  compare with     : https://explorer.rayls.com/block/12496402
+
+signatures per validator key (address from the registry where matched):
+  yAyFZMLM  0x90aed90ede55e7f784523303e12f3457d6337789  163 of 170 records
+  uvRVQ2Jx  0xc2afe610a7cecc44ef8604fe9421271fe2990fe6  161 of 170 records
+  xt1uZiaf  0x17a9747596427f4960d5c494417ce6bf8b82bafe  158 of 170 records
+  24Vsw1CX  0xeecf1a05b55e27c19d999471376192880aaa78bc  152 of 170 records
+  tMY8Lnuv  0xba74449591e403e012351095b566cf15417c2930  144 of 170 records
+  zAEnbE5Z  0xfc182245c87ab48b6a10e36fd262790de73707af  141 of 170 records
+  pdomvJaE  0x080857747a9baa9f53a68a20cd1e13b691641bc7  131 of 170 records
+
+finished 2026-10-16 16:50:38 UTC

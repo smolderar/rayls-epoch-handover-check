@@ -1,0 +1,171 @@
+epoch,signers,committee_size,quorum,signer_indexes,bls,hash,chain,committee_changed,checkpoint_block,block_rpc,block_explorer,closed_utc
+0,7,7,5,0 1 2 3 4 5 6,valid,match,-,false,1,same,same,2026-04-30 15:58:22
+1,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,66846,same,same,2026-05-01 15:58:22
+2,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,133742,same,same,2026-05-02 15:58:22
+3,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,200677,same,same,2026-05-03 15:58:23
+4,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,267577,same,same,2026-05-04 15:58:23
+5,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,334490,same,same,2026-05-05 15:58:24
+6,5,7,5,0 1 2 3 4,valid,match,ok,false,367877,same,same,2026-05-06 15:58:24
+7,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,433003,same,same,2026-05-07 15:58:24
+8,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,499467,same,same,2026-05-08 15:58:24
+9,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,565500,same,same,2026-05-09 15:58:24
+10,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,631578,same,same,2026-05-10 15:58:25
+11,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,697876,same,same,2026-05-11 15:58:25
+12,6,7,5,1 2 3 4 5 6,valid,match,ok,false,764119,same,same,2026-05-12 15:58:25
+13,6,7,5,1 2 3 4 5 6,valid,match,ok,false,830073,same,same,2026-05-13 15:58:25
+14,6,7,5,0 1 2 4 5 6,valid,match,ok,false,894453,same,same,2026-05-14 15:58:25
+15,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,960579,same,same,2026-05-15 15:58:26
+16,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1027256,same,same,2026-05-16 15:58:26
+17,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1094089,same,same,2026-05-17 15:58:26
+18,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1160783,same,same,2026-05-18 15:58:27
+19,5,7,5,1 2 4 5 6,valid,match,ok,false,1225682,same,same,2026-05-19 15:58:27
+20,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1290658,same,same,2026-05-20 15:58:28
+21,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1356897,same,same,2026-05-21 15:58:28
+22,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1423256,same,same,2026-05-22 15:58:28
+23,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1489570,same,same,2026-05-23 15:58:28
+24,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1554995,same,same,2026-05-24 15:58:28
+25,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1620746,same,same,2026-05-25 15:58:28
+26,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1687097,same,same,2026-05-26 15:58:28
+27,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1753268,same,same,2026-05-27 15:58:29
+28,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1819533,same,same,2026-05-28 15:58:29
+29,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,1885564,same,same,2026-05-29 15:58:29
+30,6,7,5,1 2 3 4 5 6,valid,match,ok,false,1951968,same,same,2026-05-30 15:58:30
+31,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2017316,same,same,2026-05-31 15:58:30
+32,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2083353,same,same,2026-06-01 15:58:30
+33,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2149667,same,same,2026-06-02 15:58:30
+34,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2216018,same,same,2026-06-03 15:58:30
+35,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2282340,same,same,2026-06-04 15:58:30
+36,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2348537,same,same,2026-06-05 15:58:30
+37,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2414768,same,same,2026-06-06 15:58:30
+38,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2481041,same,same,2026-06-07 15:58:31
+39,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2547364,same,same,2026-06-08 15:58:31
+40,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,2613570,same,same,2026-06-09 15:58:31
+41,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2679951,same,same,2026-06-10 15:58:31
+42,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2746255,same,same,2026-06-11 15:58:31
+43,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2812554,same,same,2026-06-12 15:58:32
+44,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2878792,same,same,2026-06-13 15:58:33
+45,6,7,5,1 2 3 4 5 6,valid,match,ok,false,2945069,same,same,2026-06-14 15:58:34
+46,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,3011398,same,same,2026-06-15 15:58:35
+47,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,3077660,same,same,2026-06-16 15:58:36
+48,5,7,5,1 2 3 5 6,valid,match,ok,false,3143664,same,same,2026-06-17 15:58:37
+49,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,3209622,same,same,2026-06-18 15:58:37
+50,6,7,5,1 2 3 4 5 6,valid,match,ok,false,3275396,same,same,2026-06-19 15:58:37
+51,6,7,5,1 2 3 4 5 6,valid,match,ok,false,3341704,same,same,2026-06-20 15:58:37
+52,5,7,5,0 2 3 5 6,valid,match,ok,false,3382452,same,same,2026-06-21 15:58:37
+53,5,7,5,1 2 3 5 6,valid,match,ok,false,3448052,same,same,2026-06-22 15:58:38
+54,5,7,5,0 2 3 4 5,valid,match,ok,false,3514185,same,same,2026-06-23 15:58:38
+55,6,7,5,0 1 2 3 4 5,valid,match,ok,false,3579886,same,same,2026-06-24 15:58:38
+56,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,3646469,same,same,2026-06-25 15:58:38
+57,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,3713092,same,same,2026-06-26 15:58:39
+58,6,7,5,0 1 2 3 4 6,valid,match,ok,false,3779728,same,same,2026-06-27 15:58:39
+59,6,7,5,0 1 2 3 4 6,valid,match,ok,false,3846250,same,same,2026-06-28 15:58:40
+60,6,7,5,0 1 2 3 4 6,valid,match,ok,false,3912871,same,same,2026-06-29 15:58:40
+61,6,7,5,0 1 2 3 4 6,valid,match,ok,false,3979455,same,same,2026-06-30 15:58:40
+62,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4046000,same,same,2026-07-01 15:58:40
+63,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4112357,same,same,2026-07-02 15:58:40
+64,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4178839,same,same,2026-07-03 15:58:40
+65,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4245506,same,same,2026-07-04 15:58:40
+66,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4312040,same,same,2026-07-05 15:58:40
+67,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4378696,same,same,2026-07-06 15:58:40
+68,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4445379,same,same,2026-07-07 15:58:41
+69,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4512053,same,same,2026-07-08 15:58:41
+70,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,4578716,same,same,2026-07-09 15:58:42
+71,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,4645369,same,same,2026-07-10 15:58:42
+72,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,4712024,same,same,2026-07-11 15:58:42
+73,6,7,5,0 1 2 3 4 6,valid,match,ok,false,4778655,same,same,2026-07-12 15:58:42
+74,6,7,5,0 2 3 4 5 6,valid,match,ok,false,4845183,same,same,2026-07-13 15:58:42
+75,6,7,5,0 2 3 4 5 6,valid,match,ok,false,4911897,same,same,2026-07-14 15:58:42
+76,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,4978500,same,same,2026-07-15 15:58:43
+77,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5045090,same,same,2026-07-16 15:58:44
+78,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5111647,same,same,2026-07-17 15:58:44
+79,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,5178232,same,same,2026-07-18 15:58:45
+80,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,5244928,same,same,2026-07-19 15:58:46
+81,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5311591,same,same,2026-07-20 15:58:46
+82,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5378229,same,same,2026-07-21 15:58:46
+83,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5444759,same,same,2026-07-22 15:58:46
+84,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5511346,same,same,2026-07-23 15:58:47
+85,5,7,5,0 1 2 3 4,valid,match,ok,false,5577894,same,same,2026-07-24 15:58:47
+86,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,5644403,same,same,2026-07-25 15:58:47
+87,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,5710937,same,same,2026-07-26 15:58:47
+88,6,7,5,0 2 3 4 5 6,valid,match,ok,false,5777477,same,same,2026-07-27 15:58:47
+89,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,5844044,same,same,2026-07-28 15:58:47
+90,6,7,5,0 1 2 3 4 5,valid,match,ok,false,5910579,same,same,2026-07-29 15:58:47
+91,5,7,5,2 3 4 5 6,valid,match,ok,false,5977009,same,same,2026-07-30 15:58:47
+92,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6043515,same,same,2026-07-31 15:58:47
+93,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6109993,same,same,2026-08-01 15:58:47
+94,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6176461,same,same,2026-08-02 15:58:47
+95,6,7,5,0 2 3 4 5 6,valid,match,ok,false,6242910,same,same,2026-08-03 15:58:47
+96,5,7,5,1 2 3 4 5,valid,match,ok,false,6309326,same,same,2026-08-04 15:58:47
+97,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6375795,same,same,2026-08-05 15:58:47
+98,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6442358,same,same,2026-08-06 15:58:47
+99,5,7,5,1 2 3 4 5,valid,match,ok,false,6508900,same,same,2026-08-07 15:58:47
+100,6,7,5,1 2 3 4 5 6,valid,match,ok,false,6575344,same,same,2026-08-08 15:58:47
+101,6,7,5,1 2 3 4 5 6,valid,match,ok,false,6641814,same,same,2026-08-09 15:58:48
+102,5,7,5,0 1 3 4 6,valid,match,ok,false,6708306,same,same,2026-08-10 15:58:49
+103,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,6774784,same,same,2026-08-11 15:58:49
+104,5,7,5,1 2 3 4 6,valid,match,ok,false,6840801,same,same,2026-08-12 15:58:49
+105,6,7,5,0 2 3 4 5 6,valid,match,ok,false,6907174,same,same,2026-08-13 15:58:49
+106,6,7,5,0 2 3 4 5 6,valid,match,ok,false,6973463,same,same,2026-08-14 15:58:50
+107,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7039891,same,same,2026-08-15 15:58:50
+108,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7106356,same,same,2026-08-16 15:58:50
+109,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7172875,same,same,2026-08-17 15:58:50
+110,6,7,5,0 2 3 4 5 6,valid,match,ok,false,7239373,same,same,2026-08-18 15:58:50
+111,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7305919,same,same,2026-08-19 15:58:50
+112,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7372372,same,same,2026-08-20 15:58:50
+113,6,7,5,0 1 2 4 5 6,valid,match,ok,false,7438880,same,same,2026-08-21 15:58:50
+114,6,7,5,1 2 3 4 5 6,valid,match,ok,false,7505171,same,same,2026-08-22 15:58:51
+115,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7571257,same,same,2026-08-23 15:58:51
+116,5,7,5,0 2 4 5 6,valid,match,ok,false,7637566,same,same,2026-08-24 15:58:51
+117,5,7,5,0 1 2 4 5,valid,match,ok,false,7703896,same,same,2026-08-25 15:58:51
+118,6,7,5,0 1 2 3 4 6,valid,match,ok,false,7770301,same,same,2026-08-26 15:58:51
+119,6,7,5,1 2 3 4 5 6,valid,match,ok,false,7836885,same,same,2026-08-27 15:58:51
+120,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7903132,same,same,2026-08-28 15:58:51
+121,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,7969706,same,same,2026-08-29 15:58:51
+122,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8036268,same,same,2026-08-30 15:58:51
+123,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8102907,same,same,2026-08-31 15:58:51
+124,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8169441,same,same,2026-09-01 15:58:51
+125,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8235990,same,same,2026-09-02 15:58:51
+126,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8302703,same,same,2026-09-03 15:58:51
+127,6,7,5,0 1 2 3 4 6,valid,match,ok,false,8369308,same,same,2026-09-04 15:58:51
+128,5,7,5,0 2 3 4 5,valid,match,ok,false,8435704,same,same,2026-09-05 15:58:51
+129,6,7,5,1 2 3 4 5 6,valid,match,ok,false,8502236,same,same,2026-09-06 15:58:51
+130,5,7,5,0 1 3 4 6,valid,match,ok,false,8568807,same,same,2026-09-07 15:58:52
+131,5,7,5,1 2 3 4 5,valid,match,ok,false,8635405,same,same,2026-09-08 15:58:52
+132,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8701957,same,same,2026-09-09 15:58:52
+133,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,8773116,same,same,2026-09-10 15:58:52
+134,5,7,5,0 1 2 3 6,valid,match,ok,false,8896912,same,same,2026-09-11 15:58:52
+135,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,9020757,same,same,2026-09-12 15:58:53
+136,5,7,5,0 2 3 4 5,valid,match,ok,false,9142955,same,same,2026-09-13 15:58:53
+137,5,7,5,0 1 2 4 5,valid,match,ok,false,9267261,same,same,2026-09-14 15:58:53
+138,5,7,5,0 2 4 5 6,valid,match,ok,false,9391693,same,same,2026-09-15 15:58:53
+139,5,7,5,1 3 4 5 6,valid,match,ok,false,9516088,same,same,2026-09-16 15:58:53
+140,5,7,5,1 2 3 5 6,valid,match,ok,false,9640571,same,same,2026-09-17 15:58:53
+141,6,7,5,0 2 3 4 5 6,valid,match,ok,false,9764866,same,same,2026-09-18 15:58:53
+142,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,9888148,same,same,2026-09-19 15:58:53
+143,5,7,5,1 3 4 5 6,valid,match,ok,false,10012341,same,same,2026-09-20 15:58:53
+144,5,7,5,0 1 3 4 5,valid,match,ok,false,10136186,same,same,2026-09-21 15:58:53
+145,5,7,5,0 1 3 4 6,valid,match,ok,false,10260008,same,same,2026-09-22 15:58:53
+146,5,7,5,0 1 2 4 6,valid,match,ok,false,10384046,same,same,2026-09-23 15:58:53
+147,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,10508646,same,same,2026-09-24 15:58:53
+148,6,7,5,0 1 2 3 4 5,valid,match,ok,false,10633047,same,same,2026-09-25 15:58:53
+149,6,7,5,0 1 2 3 4 5,valid,match,ok,false,10757541,same,same,2026-09-26 15:58:53
+150,5,7,5,0 1 2 4 6,valid,match,ok,false,10882037,same,same,2026-09-27 15:58:53
+151,5,7,5,1 2 3 4 6,valid,match,ok,false,11006574,same,same,2026-09-28 15:58:53
+152,6,7,5,0 2 3 4 5 6,valid,match,ok,false,11130928,same,same,2026-09-29 15:58:53
+153,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,11255230,same,same,2026-09-30 15:58:53
+154,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,11379326,same,same,2026-10-01 15:58:53
+155,5,7,5,1 2 3 4 6,valid,match,ok,false,11503285,same,same,2026-10-02 15:58:53
+156,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,11627935,same,same,2026-10-03 15:58:53
+157,6,7,5,0 1 2 3 4 6,valid,match,ok,false,11752571,same,same,2026-10-04 15:58:53
+158,6,7,5,0 2 3 4 5 6,valid,match,ok,false,11872673,same,same,2026-10-05 15:58:53
+159,5,7,5,0 1 2 3 5,valid,match,ok,false,11979890,same,same,2026-10-06 15:58:53
+160,7,7,5,0 1 2 3 4 5 6,valid,match,ok,false,12041108,same,same,2026-10-07 15:58:53
+161,5,7,5,0 1 3 4 5,valid,match,ok,false,12106193,same,same,2026-10-08 15:58:53
+162,5,7,5,0 1 3 4 5,valid,match,ok,false,12171230,same,same,2026-10-09 15:58:54
+163,5,7,5,0 2 3 4 6,valid,match,ok,false,12236075,same,same,2026-10-10 15:58:54
+164,5,7,5,0 1 2 4 6,valid,match,ok,false,12301064,same,same,2026-10-11 15:58:54
+165,5,7,5,1 2 4 5 6,valid,match,ok,false,12366196,same,same,2026-10-12 15:58:55
+166,6,7,5,0 2 3 4 5 6,valid,match,ok,false,12431315,same,same,2026-10-13 15:58:55
+167,5,7,5,0 1 3 5 6,valid,match,ok,false,12496402,same,same,2026-10-14 15:58:55
+168,6,7,5,0 1 2 4 5 6,valid,match,ok,false,12561481,same,same,2026-10-15 15:58:55
+169,5,7,5,2 3 4 5 6,valid,match,ok,false,12626661,same,same,2026-10-16 15:58:56
